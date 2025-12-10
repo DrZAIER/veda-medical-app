@@ -51,11 +51,5 @@ Fully localized interface supporting:
     # or
     flutter run -d android
     ```
-## 📦 Production Build
-To generate a release bundle for the Play Store:
-```bash
-flutter build appbundle
-```
-*Refer to `deployment_guide.md` for signing configurations.*
 ## 📄 License
 Apache 2.0 License
